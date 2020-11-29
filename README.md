@@ -6,7 +6,7 @@ I am a CSE graduate from Daffodil International University. I have 6 months of i
 
 ---
 
-<img src="./coding.gif" width=380px align="right"/>
+<img src="./coding.gif" width=380px align="right" style="border-radius: 20px"/>
 
 ### ME in a NUTSHEL:
 
