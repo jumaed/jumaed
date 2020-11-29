@@ -20,7 +20,6 @@ I am a CSE graduate from Daffodil International University. I have 6 months of i
 - 📝 [Download Resume](https://drive.google.com/u/0/uc?id=1d-gEa5jKuLD9YTN2IQmnA4eAqFBwT-gC&export=download)
 - 🌍 Web: <a href="https://jumaed.netlify.app/" target="_blank">https://jumaed.netlify.app/</a>
 <br>
-<br>
 
 ### 💻 Languages and Tools:
 
@@ -28,7 +27,7 @@ I am a CSE graduate from Daffodil International University. I have 6 months of i
 <br>
 <br>
 
-###📋 Personal Stuff:
+### 📋 Personal Stuff:
 
 - 🎓 Graduated  in ***Computer Science and Engineering***.
 - ⚡ I am more of a ***self-learner*** who loves learning things from the internet apart from the classroom.
@@ -36,7 +35,6 @@ I am a CSE graduate from Daffodil International University. I have 6 months of i
 - 👐 I hate restricting myself to a single domain and ***I always try to extend my interest in multiple domains***.
 - 🎮 I love ***playing Badminton and cricket!***
 - ✈️ I love travel , food and adventure. ***I save money - I spend it on gadgets!***
-<br>
 <br>
 
 ### 🙋‍♂️ Get in Touch
