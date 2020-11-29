@@ -1,7 +1,5 @@
 ## 👋 Hey there! Welcome to my GitHub page
 
----
-
 ##### Hi! **I'm Jumaed.** I am a Web Developer and tech enthusiast currently living in Dhaka, Bangladesh. 
 
 I am a CSE graduate from Daffodil International University. I have 6 months of internship experience in IT at SRBD. I have experience with HTML, CSS, JavaScript, and React.js/Redux but I embrace being a beginner and believe there is always something to learn or improve!
