@@ -21,16 +21,14 @@ I am a CSE graduate from Daffodil International University. I have 6 months of i
 - 🌍 Web: <a href="https://jumaed.netlify.app/" target="_blank">https://jumaed.netlify.app/</a>
 <br>
 <br>
-<br>
 
 ### 💻 Languages and Tools:
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/NPM-CB3837?logo=NPM&logoColor=white&style=for-the-badge" />  <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge" />  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=GNU-Bash&logoColor=white&style=for-the-badge" />
 <br>
 <br>
-<br>
 
-### Personal Stuff:
+###📋 Personal Stuff:
 
 - 🎓 Graduated  in ***Computer Science and Engineering***.
 - ⚡ I am more of a ***self-learner*** who loves learning things from the internet apart from the classroom.
@@ -38,7 +36,6 @@ I am a CSE graduate from Daffodil International University. I have 6 months of i
 - 👐 I hate restricting myself to a single domain and ***I always try to extend my interest in multiple domains***.
 - 🎮 I love ***playing Badminton and cricket!***
 - ✈️ I love travel , food and adventure. ***I save money - I spend it on gadgets!***
-<br>
 <br>
 <br>
 
