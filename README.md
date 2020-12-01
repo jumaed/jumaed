@@ -16,7 +16,7 @@ I am a CSE graduate from Daffodil International University. I have 6 months of i
 - ✨ Hobbies: 🏏Cricket, 🏸Badminton, ✈️Travel, 🏍Bike Riding, 🎬Movies, 🎧Music
 - ✉️ Email: jumaed21@gmail.com
 - 📝 [Download Resume](https://drive.google.com/u/0/uc?id=1d-gEa5jKuLD9YTN2IQmnA4eAqFBwT-gC&export=download)
-- 🌍 Web: <a href="https://jumaed.netlify.app/" target="_blank">https://jumaed.netlify.app/</a>
+- 🌍 Web: <a href="https://jumaed.com" target="_blank">jumaed.com/</a>
 <br>
 
 ### 💻 Languages and Tools:
