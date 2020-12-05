@@ -11,7 +11,7 @@ I am a CSE graduate from Daffodil International University. I have 6 months of i
 ### ME in a NUTSHEL:
 
 - 💼 I'm currently looking for entry level Front-End Software Engineering job.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning ReactJS.
 - 👨🏽‍🏫 I'm currently (and constantly) working on my personal projects.
 - ✨ Hobbies: 🏏Cricket, 🏸Badminton, ✈️Travel, 🏍Bike Riding, 🎬Movies, 🎧Music
 - ✉️ Email: jumaed21@gmail.com
